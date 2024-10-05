@@ -11,7 +11,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=SherryCodes911&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SherryCodes911&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Awaiscodes911&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SherryCodes911&icon=1&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Awaiscodes911&icon=1&color=0)](https://visitcount.itsvg.in)
