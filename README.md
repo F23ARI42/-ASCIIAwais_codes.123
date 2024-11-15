@@ -21,5 +21,5 @@ vicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-orig
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=f23ari42&show_icons=true&locale=en&layout=compact" alt="f23ari42" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=f23ari42&show_icons=true&locale=en" alt="f23ari42" /></p>
+![coursera](https://github.com/user-attachments/assets/60431447-8d02-4bf4-b26e-da236bdce119)
 
-[Coursera E54ATT27ATWD.pdf](https://github.com/user-attachments/files/17780216/Coursera.E54ATT27ATWD.pdf)
